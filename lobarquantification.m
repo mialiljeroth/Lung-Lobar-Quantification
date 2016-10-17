@@ -1,5 +1,5 @@
 function [lobarvalues, leftdicecoeff, rightdicecoeff] = lobarquantification( imagepathCT, imagepathQ, imagepathV, template, outputlabels)
-
+% minor edits in comments
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Set some global vbles
 global displaydebugimages;
